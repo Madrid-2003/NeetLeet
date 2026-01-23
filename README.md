@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Madrid-2003/NeetLeet/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madrid-2003/NeetLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Madrid-2003/NeetLeet/tree/master/0200-number-of-islands) |
@@ -72,15 +73,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madrid-2003/NeetLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
 | [0845-longest-mountain-in-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0845-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
