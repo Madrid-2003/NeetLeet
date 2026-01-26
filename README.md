@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Madrid-2003/NeetLeet/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
