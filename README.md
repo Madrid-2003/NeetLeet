@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madrid-2003/NeetLeet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Madrid-2003/NeetLeet/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Madrid-2003/NeetLeet/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Madrid-2003/NeetLeet/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Geometry
 |  |
 | ------- |
