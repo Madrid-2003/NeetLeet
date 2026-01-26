@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Madrid-2003/NeetLeet/tree/master/1266-minimum-time-visiting-all-points) |
+| [3516-find-closest-person](https://github.com/Madrid-2003/NeetLeet/tree/master/3516-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
