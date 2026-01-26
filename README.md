@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Madrid-2003/NeetLeet/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Madrid-2003/NeetLeet/tree/master/1266-minimum-time-visiting-all-points) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madrid-2003/NeetLeet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Madrid-2003/NeetLeet/tree/master/1266-minimum-time-visiting-all-points) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Madrid-2003/NeetLeet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3516-find-closest-person](https://github.com/Madrid-2003/NeetLeet/tree/master/3516-find-closest-person) |
 ## Binary Search
 |  |
