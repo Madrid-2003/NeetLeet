@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Madrid-2003/NeetLeet/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madrid-2003/NeetLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Madrid-2003/NeetLeet/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0845-longest-mountain-in-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Madrid-2003/NeetLeet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
