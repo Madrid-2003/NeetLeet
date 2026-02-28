@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Madrid-2003/NeetLeet/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Madrid-2003/NeetLeet/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madrid-2003/NeetLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Madrid-2003/NeetLeet/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 ## Sorting
 |  |
