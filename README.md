@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Madrid-2003/NeetLeet/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madrid-2003/NeetLeet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Madrid-2003/NeetLeet/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madrid-2003/NeetLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Madrid-2003/NeetLeet/tree/master/0268-missing-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/Madrid-2003/NeetLeet/tree/master/1488-avoid-flood-in-the-city) |
 ## Bit Manipulation
@@ -123,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Madrid-2003/NeetLeet/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madrid-2003/NeetLeet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madrid-2003/NeetLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madrid-2003/NeetLeet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
