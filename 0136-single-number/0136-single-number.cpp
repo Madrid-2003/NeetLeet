@@ -11,6 +11,6 @@ public:
                 return p.first;
             }
         }
-        return 0;
+        return -1;
     }
 };
